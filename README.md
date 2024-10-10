@@ -6,16 +6,25 @@ I have developed a **Zomato Front-End UI** using **React JS** that replicates ke
 
 ![Output Image](./OutputImages/output1.png)
 
+<br><br>
+
 ![Output Image](./OutputImages/output2.png)
+<br><br>
 
 ![Output Image](./OutputImages/output3.png)
+<br><br>
 
 ![Output Image](./OutputImages/output4.png)
+<br><br>
 
 ![Output Image](./OutputImages/output5.png)
+<br><br>
 
 ![Output Image](./OutputImages/output6.png)
+<br><br>
+
 ![Output Image](./OutputImages/output7.png)
+<br><br>
 
 ### Video Demonstration
 
